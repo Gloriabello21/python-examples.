@@ -1,0 +1,25 @@
+#ej1,2,3,4,5,6,7,8
+Hermione,Griffyndor
+Harry,Griffyndor
+Ron,Griffyndor
+Draco,Slytherin
+
+#ej9
+Harry, "Number Four,Privet Drive"
+Ron,The Burrow
+Draco,Malfoy Manor
+
+#ej10
+name,home 
+Harry, "Number Four,Privet Drive"
+Ron,The Burrow
+Draco,Malfoy Manor
+
+si lo usas al revez igual funciona
+home,name
+"Number Four,Privet Drive",Harry
+The Burrow,Ron
+Malfoy Manor,Draco
+
+#ej:11,12
+name,home
